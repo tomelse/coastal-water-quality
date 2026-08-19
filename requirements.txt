@@ -6,7 +6,7 @@ pandas
 
 # Earth science & plotting
 copernicusmarine
-xarray
+xarray 
 netCDF4
 cmocean
 cartopy
